@@ -60,13 +60,13 @@ bebdoNmap is a Bash-based interactive Nmap port scanner with a menu-driven inter
 
 ## Example
 ```
-$ ./tools/Nmap.sh
- ____            _     _             
-| __ )  ___  ___| |__ (_)_ __   __ _ 
-|  _ \ / _ \/ __| '_ \| | '_ \ / _` |
-| |_) |  __/ (__| | | | | | | | (_| |
-|____/ \___|\___|_| |_|_|_| |_|\__, |
-                               |___/ 
+$ ./tools/nmap/Nmap.sh
+    ____       __        __          
+   / __ )___  / /_  ____/ /___  ____ 
+  / __  / _ \/ __ \/ __  / __ \/ __ \
+ / /_/ /  __/ /_/ / /_/ / /_/ / / / /
+/_____/\___/_.___/\__,_/\____/_/ /_/ 
+                                     
 
   Nmap Scanner by bebdon
 
